@@ -1,0 +1,14 @@
+body {
+	font-family: 'Open Sans', 'Arial', sans-serif;
+	background-color: white;
+	color:blue;
+	line-height: 1.5;
+	font-weight: 300;
+}
+
+.container {
+	max-width: 90%;
+	margin: 0 auto;
+}
+
+
